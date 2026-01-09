@@ -1,15 +1,17 @@
 {
-    "chat.mcp.serverSampling": {
-        "PnP-PowerShell/.vscode/mcp.json: m365agentstoolkit": {
-            "allowedModels": [
-                "copilot/gpt-5-mini",
-                "copilot/auto",
-                "copilot/claude-3.5-sonnet",
-                "copilot/gemini-2.0-flash-001",
-                "copilot/gpt-4.1",
-                "copilot/gpt-4o",
-                "copilot/o3-mini"
-            ]
-        }
+  "chat.mcp.serverSampling": {
+    "PnP-PowerShell/.vscode/mcp.json: m365agentstoolkit": {
+      "allowedModels": [
+        "copilot/gpt-5-mini",
+        "copilot/auto",
+        "copilot/claude-3.5-sonnet",
+        "copilot/gemini-2.0-flash-001",
+        "copilot/gpt-4.1",
+        "copilot/gpt-4o",
+        "copilot/o3-mini"
+      ]
     }
+  },
+  "dotnet.preferCSharpExtension": true,
+  "dotnet.defaultSolution": "PnP.PowerShell.sln"
 }
